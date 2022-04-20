@@ -6,7 +6,7 @@
 **Sobre mim:**
 
 - 💻 Desenvolvedor Júnior Front End pela [@InCicle](https://github.com/InCicle)
-- 📝 Aguardando colação de grau em Sistemas de Informaçao (UFAC).
+- 📝 Bacharel em Sistemas de Informaçao (UFAC).
 - 💬 Me pergunte sobre ReactJS, JavaScript e Python.
 - 📫 Como você pode me encontar: [linkedIn](https://www.linkedin.com/in/thalisson-bandeira-532b4a120/)
 
