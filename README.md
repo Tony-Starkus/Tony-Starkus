@@ -5,7 +5,7 @@
 
 **Sobre mim:**
 
-- 💻 Desenvolvedor Júnior Front End pela [@InCicle](https://github.com/InCicle)
+- 💻 Desenvolvedor Pleno Front End pela [@Codeby](https://github.com/codeby-global)
 - 📝 Bacharel em Sistemas de Informaçao (UFAC).
 - 💬 Me pergunte sobre ReactJS, JavaScript e Python.
 - 📫 Como você pode me encontar: [linkedIn](https://www.linkedin.com/in/thalisson-bandeira-532b4a120/)
